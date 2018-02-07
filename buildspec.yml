@@ -3,7 +3,3 @@ phases:
   install:
     commands:
       - npm install time
-artifacts:
-  type: zip
-  files:
-    - NewSamTemplate.yaml
